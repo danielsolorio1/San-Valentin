@@ -9,7 +9,7 @@ Autor propio: 🧑‍💻
 
 **Un login con contraseña**
 
-[![segundo.png](https://i.postimg.cc/5Nn6h9KZ/segundo.png)](https://postimg.cc/4mHftGg5)
+[![segundo.png](![image](https://github.com/user-attachments/assets/63b398e9-72eb-4ca0-ab76-d5645c8f0c0f)
 
 **Aniversario**
 
