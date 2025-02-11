@@ -9,12 +9,12 @@ Autor propio: 🧑‍💻
 
 **Un login con contraseña**
 
-[![segundo.png](![image](![image](https://github.com/user-attachments/assets/e8781445-c35a-4625-82e9-3c7746b228d4)
+[![segundo.png](https://github.com/user-attachments/assets/e8781445-c35a-4625-82e9-3c7746b228d4)
 
 
 **Fotos de recuerdo**
 
-[![cuarto.png](![image](https://github.com/user-attachments/assets/23133531-83db-456c-a7d5-d85a7dde6bf2)
+[![cuarto.png](https://github.com/user-attachments/assets/23133531-83db-456c-a7d5-d85a7dde6bf2)
 
 **Carta dedicada**
 
