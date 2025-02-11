@@ -9,16 +9,15 @@ Autor propio: 🧑‍💻
 
 **Un login con contraseña**
 
-[![segundo.png](![image](https://github.com/user-attachments/assets/63b398e9-72eb-4ca0-ab76-d5645c8f0c0f)
+[![segundo.png](![image](![image](https://github.com/user-attachments/assets/e8781445-c35a-4625-82e9-3c7746b228d4)
 
-**Aniversario**
-
-[![tercer.png](https://i.postimg.cc/g06jLVcW/tercer.png)](https://postimg.cc/cK00V889)
 
 **Fotos de recuerdo**
 
-[![cuarto.png](https://i.postimg.cc/sx3gLbYj/cuarto.png)](https://postimg.cc/N9Pt9JCS)
+[![cuarto.png](![image](https://github.com/user-attachments/assets/23133531-83db-456c-a7d5-d85a7dde6bf2)
 
 **Carta dedicada**
 
-[![quinto.png](https://i.postimg.cc/L5v8FvDz/quinto.png)](https://postimg.cc/CnBgjGW1)
+[![quinto.png]("")
+
+**REGALO CON ANIMACIÓN**
