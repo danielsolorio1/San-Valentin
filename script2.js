@@ -5,7 +5,7 @@ let score = 0;
 let heartInterval;
 
 function spawnHeart() {
-    if (score >= 1) return;
+    if (score >= 10) return;
 
     const heart = document.createElement("div");
     heart.classList.add("heart");
@@ -19,12 +19,12 @@ function spawnHeart() {
         progressBar.style.width = `${(score / 10) * 100}%`;
         heart.remove();
 
-        if (score === 1) {
+        if (score === 10) {
             /*clearInterval(heartInterval);
             alert("¡Felicidades! ❤️🎉");*/
             
             // Añadir mensaje de cuenta regresiva
-            let countdown = 1;
+            let countdown = 5;
             const countdownMessage = document.createElement("div");
             countdownMessage.style.position = "fixed";
             countdownMessage.style.top = "50%";
