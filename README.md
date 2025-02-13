@@ -1,6 +1,7 @@
 # Regalo para San Valentin 
 Autor propio: 🧑‍💻
-  - [¡DANIEL SOLORIO!](https://github.com/danielsolorio1) 
+  - [¡DANIEL SOLORIO!](https://github.com/danielsolorio1)
+  - [!DEPLOY!](https://san-valentin-liard.vercel.app/)
 ## Incluye
 
 **Jueguito de atrapar corazones**
