@@ -17,8 +17,4 @@ Autor propio: 🧑‍💻
 
 [![cuarto.png](https://github.com/user-attachments/assets/23133531-83db-456c-a7d5-d85a7dde6bf2)
 
-**Carta dedicada**
 
-[![quinto.png]("")
-
-**REGALO CON ANIMACIÓN**
